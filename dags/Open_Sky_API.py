@@ -1,3 +1,7 @@
+##
+# @author: Bernard Polidario
+# #
+
 from datetime import datetime, date
 from time import mktime
 from airflow.decorators import dag, task
